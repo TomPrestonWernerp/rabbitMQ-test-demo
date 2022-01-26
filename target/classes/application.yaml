@@ -1,0 +1,12 @@
+# Spring 相关配置
+spring:
+  # RabbitMQ 相关配置
+  rabbitmq:
+    # 主机ip地址
+    host: 47.96.115.67
+    # 授权用户名
+    username: iswhl
+    # 授权用户密码
+    password: 123456
+    # 授权虚拟主机名称
+    virtual-host: iswhl
